@@ -1,7 +1,6 @@
-.env
 .venv
 .vscode
-__pycache__
+__pycahe__
 data.db
-*.pyc
+*.__pycahe__
 .DS_Store
